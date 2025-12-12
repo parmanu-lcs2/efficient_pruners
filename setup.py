@@ -32,7 +32,6 @@ setup(
         "Programming Language :: Python :: 3.10",
         "Programming Language :: Python :: 3.11",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
-        "Topic :: Scientific/Engineering :: Machine Learning",
     ],
     python_requires=">=3.8",
     install_requires=[

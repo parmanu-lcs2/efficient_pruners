@@ -27,6 +27,12 @@ cd efficient_pruners
 pip install -e .
 ```
 
+### Or via Pypi
+
+```bash
+pip install efficient-pruners
+```
+
 ### Basic Usage (New API)
 
 ```python

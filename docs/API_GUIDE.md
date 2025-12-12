@@ -39,6 +39,11 @@ pip install -e ".[logging]"
 pip install -e ".[all]"
 ```
 
+### From Pypi
+
+```bash
+pip install efficient-pruners
+```
 ---
 
 ## Quick Start
